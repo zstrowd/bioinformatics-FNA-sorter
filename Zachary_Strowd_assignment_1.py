@@ -3,7 +3,7 @@
 =============================================================================
 Title : Zachary_Strowd_assigment_1.py
 Description : This script gets FNA data from a file and sorts the sequences from Largest to Smallest. Ouputs the sorted data into a file.
-Author : errees
+Author : Zachary Strowd
 Date : 09/19/23
 Version : 1.0
 Usage : python3 Zachary_Strowd_assigment_1.py
